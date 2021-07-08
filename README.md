@@ -1,5 +1,5 @@
 # CV-Gaussian-Median-Noise-Filters
-Computer_Vision_Gaussian-Median-Noise-Filters is an open-source code for applying different image filters like Gaussian, Median, and Noise filters. I developed this project with pure python programming language and NumPy framework without using any Computer Vision built-in functions as an assignment for Istanbul Technical University Computer Vision Course.
+Computer-Vision-Gaussian-Median-Noise-Filters is an open-source code for applying different image filters like Gaussian, Median, and Noise filters. I developed this project with pure python programming language and NumPy framework without using any Computer Vision built-in functions as an assignment for Istanbul Technical University Computer Vision Course.
 
 ## Content
 - Convolution Filter
@@ -40,7 +40,6 @@ git clone https://github.com/mahmudmardini/CV-Gaussian-Median-Noise-Filters.git
 ### Note: 
 You can see project code without using any IDE in 'CV Filters Codes.py' file. 
 To open the project you need to import 'main.ipynb' file using Jupyter Notebook.
-
 
 ## Preview
 ![Preview](./preview/project_preview.gif)
