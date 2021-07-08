@@ -38,7 +38,7 @@ git clone https://github.com/mahmudmardini/CV-Gaussian-Median-Noise-Filters.git
 ```
 
 ### Note: 
-you can see project's code without using any IDE in 'CV_Filters_Codes.py' file. 
+You can see project code without using any IDE in 'CV Filters Codes.py' file. 
 To open the project you need to import 'main.ipynb' file using Jupyter Notebook.
 
 
