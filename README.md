@@ -42,7 +42,7 @@ You can see project code without using any IDE in 'CV Filters Codes.py' file.
 To open the project you need to import 'main.ipynb' file using Jupyter Notebook.
 
 ## Preview
-![Preview](./preview/project_preview.gif)
+![Preview](./preview/project_preview.mp4)
 
 ## License
 [MIT](LICENSE)
