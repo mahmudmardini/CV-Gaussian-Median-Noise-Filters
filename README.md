@@ -37,9 +37,9 @@ All signal processing devices, both analog and digital, have traits that make th
 git clone https://github.com/mahmudmardini/CV-Gaussian-Median-Noise-Filters.git
 ```
 
-### Note: 
+<!-- ### Note: 
 You can see project code without using any IDE in 'CV Filters Codes.py' file. 
-To open the project you need to import 'main.ipynb' file using Jupyter Notebook.
+To open the project you need to import 'main.ipynb' file using Jupyter Notebook. -->
 
 ## Preview
 ![Preview](./preview/project_preview.gif)
